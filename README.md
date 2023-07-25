@@ -1,2 +1,4 @@
 # Jephthah_Sunday
-My personal repository.
+Hellooo! 😎 I AM JEPHTHAH SUNDAY, YOUR FAVOURITE QA ENGINEER...
+
+💥Quality is the best business plan
